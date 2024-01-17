@@ -1,5 +1,5 @@
-Project Name : Url Shortener
-Project auther : Bhavdeep
+## Project Name : Url Shortener
+### Project author : Bhavdeep
  
  Small details of the project -->
 
