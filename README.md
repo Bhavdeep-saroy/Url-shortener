@@ -1,8 +1,8 @@
 ## Project Name : Url Shortener
 ### Project author : Bhavdeep
  
- Small details of the project -->
+#### Details of the project -->
 
- 1. This project shortens URLs.
- 2. This project is easy to use.
- 3. This project is convenient for the user.  
+
+
+Short and URLs can shorten this project to shorten your big URL, so that you will be able to send it to anyone and it will come in the text. To use this method you have been given an input box in this website. In it you will enter your URL and after pressing the submit button foot, your short prevention will be done in the table below and will also show up on the input box where you put your URL.
